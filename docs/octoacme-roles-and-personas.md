@@ -75,6 +75,78 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 
 ---
 
+## Scrum Master
+
+### Role Summary
+Facilitates agile ceremonies and coaches the team on agile best practices. Acts as a servant-leader to help the team self-organize and continuously improve. Works closely with the Project Manager on delivery risks and team health, and partners with Developers to remove blockers that impede sprint progress.
+
+### Responsibilities
+- Facilitate standups, sprint planning, sprint reviews, and retrospectives
+- Identify and help remove impediments and blockers
+- Coach the team on agile values, principles, and practices
+- Shield the team from external interruptions during sprints
+- Liaise with the Project Manager on delivery risks and team health
+
+### Goals
+- Improve team velocity and predictability
+- Foster a culture of continuous improvement and psychological safety
+- Reduce blockers and cycle time
+
+### Typical Communication
+- Daily standups and sprint ceremonies
+- Retrospective action tracking
+- Blocker escalation to PM when needed
+
+---
+
+## UX Designer
+
+### Role Summary
+Advocates for the end user by researching needs, designing intuitive experiences, and validating solutions with users before and during development. Collaborates closely with the Product Manager on feature priorities and customer outcomes, and reviews designs with Developers for feasibility and usability.
+
+### Responsibilities
+- Conduct user research and gather requirements
+- Create wireframes, prototypes, and user journey maps
+- Collaborate with Product Manager on feature priorities and customer outcomes
+- Review designs with developers for feasibility and usability
+- Participate in acceptance testing from a usability perspective
+
+### Goals
+- Ensure delivered features are usable, accessible, and valuable to end users
+- Reduce rework caused by usability gaps discovered late in delivery
+- Align design decisions with product strategy
+
+### Typical Communication
+- Design reviews and prototype walkthroughs with developers and PM
+- User research findings shared with Product Manager and stakeholders
+- Feedback loops during sprint reviews
+
+---
+
+## Release Manager
+
+### Role Summary
+Coordinates production deployments, manages release scheduling, and ensures change control processes are followed to minimize risk to production systems. Works with QA, Developers, and the Project Manager to verify release gates are met before any deployment proceeds.
+
+### Responsibilities
+- Plan and schedule production deployments and release windows
+- Ensure change control, approvals, and rollback plans are in place
+- Communicate release timelines and impacts to stakeholders
+- Work with QA, Developers, and Project Manager to verify release gates are met
+- Maintain the release notes and deployment runbook
+
+### Goals
+- Deliver reliable, low-risk releases to production
+- Maintain clear audit trails for all production changes
+- Minimize production incidents caused by deployments
+
+### Typical Communication
+- Release planning meetings with PM, QA, and Dev leads
+- Stakeholder announcements for scheduled releases
+- Post-release retrospectives for failed or risky deployments
+
+---
+
 ## How these personas are used in the exercise
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
